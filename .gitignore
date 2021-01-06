@@ -1,0 +1,19 @@
+*.iml
+/.idea/
+/.project
+/publish/
+/out/
+/bin/
+/.settings/
+/*.classpath
+/*.project
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+/target/
+/temp/
+/LOG_PATH_IS_UNDEFINED/

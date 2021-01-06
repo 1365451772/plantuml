@@ -1,0 +1,6 @@
+{
+	"cmd": "java.exe -jar C:/Users/bangcle/Desktop/plantuml.jar -charset UTF-8 $file",
+    "path":"F:/develop/environment/java/jdk-8u211/jre/bin/",
+    "env": {"GRAPHVIZ_DOT":"C:/Program Files/Graphviz 2.44.1/bin/dot.exe"}
+
+}
